@@ -3,7 +3,7 @@
 Below are a few of my projects associated with WeThinkCode_ and some personal projects I have worked on.
 Some of my personal project repositories are private...for obvious reason :) But if you would like to view something, let me know!
 
-- 🔭 I’m currently working on a mobile app called Local Hustle (available on [Google Play Store - LH](https://play.google.com/store/apps/details?id=com.jadonhansen.localhustle) and [iOS App Store - LH](https://apps.apple.com/us/app/local-hustle/id6444708088)) and maintaining two other apps: DigiWallet (available on [Google Play Store - DW](https://play.google.com/store/apps/details?id=com.digiwalletapp.digiwallet) and [iOS App Store - DW](https://apps.apple.com/us/app/digiwallet/id1593438301)) and a weather app called Weatherly! (Available on [Google Play Store - Weatherly](https://play.google.com/store/apps/details?id=com.jadonhansen.weatherly) and [iOS App Store - Weatherly](https://apps.apple.com/us/app/weatherly/id1583456822)).
+- 🔭 I’m currently working on a mobile app called Local Hustle and maintaining two other apps, DigiWallet and Weatherly [See my apps portfolio](https://apps.jadonhansen.com/) for the app store links.
 - 🌱 I’m currently learning Vue.js (from a React background).
 - 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/jadon-hansen-879358193/)
 - ⚡ Fun fact: My profile image is an ode to my favourite movie of all time, Surf's Up!
