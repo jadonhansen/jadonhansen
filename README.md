@@ -3,8 +3,8 @@
 Below are a few of my projects associated with WeThinkCode_ and some personal projects I have worked on.
 Some of my personal project repositories are private...for obvious reason :) But if you would like to view something, let me know!
 
-- 🔭 I’m currently working on a mobile app called Local Hustle and maintaining two other apps, DigiWallet and Weatherly [See my apps portfolio](https://apps.jadonhansen.com/) for the app store links.
-- 🌱 I’m currently learning Vue.js (from a React background).
+- 🔭 I’m currently maintaining three React Native mobile apps - DigiWallet, Weatherly and Local Hustle. [See my apps portfolio](https://apps.jadonhansen.com/) for the app store links.
+- 🌱 I’m currently learning Vite with Vue.js.
 - 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/jadon-hansen-879358193/)
 - ⚡ Fun fact: My profile image is an ode to my favourite movie of all time, Surf's Up!
 
