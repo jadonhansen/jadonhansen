@@ -8,7 +8,7 @@ Some of my personal project repositories are private...for obvious reason :) But
 - 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/jadon-hansen-879358193/)
 - ⚡ Fun fact: My profile image is an ode to my favourite movie of all time, Surf's Up!
 
-[![jadonhansen's GitHub stats](https://github-readme-stats.vercel.app/api?username=jadonhansen)](https://github.com/jadonhansen/github-readme-stats)
+[![jadonhansen's GitHub stats](https://github-readme-stats.vercel.app/api?username=jadonhansen)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jadonhansen/jadonhansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
