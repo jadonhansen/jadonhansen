@@ -10,7 +10,7 @@ Some of my personal project repositories are private...for obvious reason :) But
 
 [![jadonhansen's GitHub stats](https://github-readme-stats-blond-mu-27.vercel.app/api?username=jadonhansen&theme=transparent&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-blond-mu-27.vercel.app/api/top-langs/?username=jadonhansen&theme=transparent&layout=donut-vertical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-blond-mu-27.vercel.app/api/top-langs/?username=jadonhansen&theme=transparent&layout=donut&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jadonhansen/jadonhansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
